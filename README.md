@@ -6,6 +6,8 @@ Website: [https://paide.dev](https://paide.dev)
 
 Official pre-built runtime binary distributions for the **pAIDE™** compiler and **pAIPL™** (`pAIPL-BIN™`) execution runtime, published for automated benchmarking (including `PrimePAIPL™` / `PlummersSoftwareLLC/Primes`) and authorized evaluation.
 
+- **Verified Benchmark Showcase:** See [BENCHMARK.md](BENCHMARK.md) for Linux `x86_64` (`native_posix_mmap`) telemetry — **`1.57× Go`** (**`7,445` passes** in `5.0s`, **`519 µs`** compile latency) and cross-language comparison charts.
+
 ## Release v1.2.0 Verification
 
 | Field | Value |
