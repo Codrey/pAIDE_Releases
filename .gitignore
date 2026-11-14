@@ -1,0 +1,3 @@
+# Ignore compiled release binaries (distributed strictly as GitHub Release assets)
+paide-linux-amd64
+*.exe
