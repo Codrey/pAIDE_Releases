@@ -10,14 +10,14 @@ Official pre-built runtime binary distributions for the **pAIDE™** compiler an
 
 | Field | Value |
 | --- | --- |
-| **Artifact** | `paide-linux-amd64` (`4,444,320` bytes, static `CGO_ENABLED=0`) |
-| **SHA-256** | `ded306e87006b7f99735d35b7e058d94ccd230cd5702ce4bd1c9ad6d0adf3c4e` |
+| **Artifact** | `paide-linux-amd64` (`4,460,704` bytes, static `CGO_ENABLED=0`) |
+| **SHA-256** | `6d7ed402a7c906a37104d1a5e0cf99470f670506361f15e7ea54cfcc39c8ba5f` |
 | **Download URL** | [https://github.com/Codrey/pAIDE_Releases/releases/download/v1.2.0/paide-linux-amd64](https://github.com/Codrey/pAIDE_Releases/releases/download/v1.2.0/paide-linux-amd64) |
 
 Verify the downloaded binary checksum on Linux:
 
 ```bash
-echo "ded306e87006b7f99735d35b7e058d94ccd230cd5702ce4bd1c9ad6d0adf3c4e  paide-linux-amd64" | sha256sum -c -
+echo "6d7ed402a7c906a37104d1a5e0cf99470f670506361f15e7ea54cfcc39c8ba5f  paide-linux-amd64" | sha256sum -c -
 ```
 
 ## Proprietary Notice
